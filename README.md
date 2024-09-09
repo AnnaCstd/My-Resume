@@ -25,7 +25,7 @@ This project is a simple personal resume website that showcases my professional 
 - Add more interactive elements, such as JavaScript for form handling.
 
 ## Screenshot
-![Profile Preview](./Images-Videos/Profile.jfif)
+![Profile Preview](./Images-Videos/Goal.png)
 
 ## How to View the Project
 1. Clone this repository:
