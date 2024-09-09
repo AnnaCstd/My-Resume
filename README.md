@@ -27,12 +27,5 @@ This project is a simple personal resume website that showcases my professional 
 ## Screenshot
 ![Profile Preview](./Images-Videos/Goal.png)
 
-## How to View the Project
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/MyResumeWebsite.git
-   ```
-2. Open the `index.html` file in your preferred browser.
-
 ## About Me
 I’m Annabelle Custodio, a media analyst and invitation designer transitioning into web development. I’m excited to continue learning and growing my skills in this field. Connect with me on [LinkedIn](https://www.linkedin.com/in/custodioannabellem/).
